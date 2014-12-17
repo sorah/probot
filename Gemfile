@@ -19,7 +19,7 @@ gem "ruboty-slack"
 gem "ruboty-syoboi_calendar"
 gem "ruboty-scorekeeper"
 gem "ruboty-zoi", "~> 1.1.0"
-gem "ruboty-tumblr_image"
+gem "ruboty-tumblr_image", github: 'sorah/ruboty-tumblr_image', ref: 'tumblr-api'
 gem "ruboty-imascg", github: 'sorah/ruboty-imascg'
 gem "ruboty-imasml", github: 'sorah/ruboty-imasml'
 gem "ruboty-hitozuma"
