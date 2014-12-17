@@ -24,3 +24,4 @@ gem "ruboty-imascg", github: 'sorah/ruboty-imascg'
 gem "ruboty-imasml", github: 'sorah/ruboty-imasml'
 gem "ruboty-hitozuma"
 gem "ruboty-talk"
+gem 'ruboty-echo'
