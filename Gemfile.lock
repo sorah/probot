@@ -74,8 +74,8 @@ GEM
       dotenv
       mem
       slop
-    ruboty-alias (0.0.5)
-      ruboty
+    ruboty-alias (0.0.6)
+      ruboty (>= 1.1.1)
     ruboty-cron (0.0.9)
       activesupport
       chrono
@@ -105,8 +105,8 @@ GEM
       ruboty
     ruboty-scorekeeper (0.0.2)
       ruboty
-    ruboty-slack (0.1.6)
-      ruboty
+    ruboty-slack (0.1.7)
+      ruboty (>= 1.0.4)
       xrc (>= 0.0.6)
     ruboty-syoboi_calendar (0.0.7)
       activesupport
