@@ -18,7 +18,6 @@ gem "ruboty-redis"
 gem "ruboty-slack"
 gem "ruboty-syoboi_calendar"
 gem "ruboty-scorekeeper"
-gem "ruboty-attendance"
 gem "ruboty-zoi", "~> 1.1.0"
 gem "ruboty-tumblr_image"
 gem "ruboty-imascg", github: 'sorah/ruboty-imascg'

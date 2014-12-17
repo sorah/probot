@@ -64,8 +64,6 @@ GEM
       redis (~> 3.0, >= 3.0.4)
     ruboty-alias (0.0.3)
       ruboty
-    ruboty-attendance (0.0.2)
-      ruboty
     ruboty-cron (0.0.9)
       activesupport
       chrono
@@ -133,7 +131,6 @@ DEPENDENCIES
   rake
   ruboty!
   ruboty-alias
-  ruboty-attendance
   ruboty-cron
   ruboty-github
   ruboty-google_image
