@@ -1,8 +1,8 @@
 GIT
   remote: git://github.com/sorah/ruboty-imascg.git
-  revision: e75c74b01b95d463893dda4108f01ca8c21d6e8f
+  revision: efedb4c8622762dd953f38dc523ffb14122a32e2
   specs:
-    ruboty-imascg (0.0.1)
+    ruboty-imascg (1.0.0)
       ruboty
 
 GIT
@@ -28,7 +28,7 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (4.1.6)
+    activesupport (4.1.8)
       i18n (~> 0.6, >= 0.6.9)
       json (~> 1.7, >= 1.7.7)
       minitest (~> 5.1)
@@ -43,32 +43,32 @@ GEM
       multipart-post (>= 1.2, < 3)
     faraday_middleware (0.9.1)
       faraday (>= 0.7.4, < 0.10)
-    hashie (3.2.0)
+    hashie (3.3.2)
     i18n (0.6.11)
     json (1.8.1)
     mem (0.1.5)
     method_source (0.8.2)
-    minitest (5.4.2)
+    minitest (5.5.0)
     multi_xml (0.5.5)
     multipart-post (2.0.0)
     nokogiri (1.5.11)
-    octokit (3.3.0)
-      sawyer (~> 0.5.3)
-    pry (0.10.0)
+    octokit (3.7.0)
+      sawyer (~> 0.6.0, >= 0.5.3)
+    pry (0.10.1)
       coderay (~> 1.1.0)
       method_source (~> 0.8.1)
       slop (~> 3.4)
-    rake (10.3.2)
-    redis (3.1.0)
+    rake (10.4.2)
+    redis (3.2.0)
     redis-namespace (1.5.1)
       redis (~> 3.0, >= 3.0.4)
-    ruboty-alias (0.0.3)
+    ruboty-alias (0.0.5)
       ruboty
     ruboty-cron (0.0.9)
       activesupport
       chrono
       ruboty (>= 0.2.0)
-    ruboty-github (0.1.0)
+    ruboty-github (0.1.1)
       activesupport
       octokit
       ruboty
@@ -76,7 +76,7 @@ GEM
       faraday
       faraday_middleware
       ruboty
-    ruboty-hitozuma (0.0.2)
+    ruboty-hitozuma (0.0.3)
       ruboty
     ruboty-japan_weather (0.0.3)
       ruboty
@@ -85,7 +85,7 @@ GEM
       faraday
       faraday_middleware
       ruboty
-    ruboty-redis (0.0.4)
+    ruboty-redis (0.0.5)
       redis
       redis-namespace
       ruboty
@@ -94,7 +94,7 @@ GEM
     ruboty-slack (0.1.6)
       ruboty
       xrc (>= 0.0.6)
-    ruboty-syoboi_calendar (0.0.5)
+    ruboty-syoboi_calendar (0.0.7)
       activesupport
       ruboty
       syoboi_calendar (= 0.3.1)
@@ -104,7 +104,7 @@ GEM
       ruboty
     ruboty-zoi (1.1.0)
       ruboty
-    sawyer (0.5.4)
+    sawyer (0.6.0)
       addressable (~> 2.3.5)
       faraday (~> 0.8, < 0.10)
     slop (3.6.0)
@@ -120,7 +120,7 @@ GEM
     weather_jp (1.0.4)
       nokogiri (~> 1.5.5)
       rake (>= 0.9.2)
-    xrc (0.1.1)
+    xrc (0.1.4)
       activesupport
 
 PLATFORMS
