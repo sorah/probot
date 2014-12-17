@@ -15,7 +15,7 @@ GIT
 
 GIT
   remote: git://github.com/sorah/ruboty-tumblr_image.git
-  revision: 40b93ee33972160f6ad084985b88661be176ad7f
+  revision: f24b5e738ac53da485e6c432381533c71104b071
   ref: tumblr-api
   specs:
     ruboty-tumblr_image (0.0.2)
