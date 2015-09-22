@@ -5,7 +5,7 @@ else
   ruby '2.1.5'
 end
 
-gem "pry"
+gem "pry", group: :development
 gem "rake"
 gem "ruboty"
 gem "ruboty-alias"
